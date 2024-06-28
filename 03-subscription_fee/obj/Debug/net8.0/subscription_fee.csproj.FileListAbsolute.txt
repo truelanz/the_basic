@@ -1,0 +1,14 @@
+E:\Users\lanro\C#\the_basic\subscription_fee\bin\Debug\net8.0\subscription_fee.exe
+E:\Users\lanro\C#\the_basic\subscription_fee\bin\Debug\net8.0\subscription_fee.deps.json
+E:\Users\lanro\C#\the_basic\subscription_fee\bin\Debug\net8.0\subscription_fee.runtimeconfig.json
+E:\Users\lanro\C#\the_basic\subscription_fee\bin\Debug\net8.0\subscription_fee.dll
+E:\Users\lanro\C#\the_basic\subscription_fee\bin\Debug\net8.0\subscription_fee.pdb
+E:\Users\lanro\C#\the_basic\subscription_fee\obj\Debug\net8.0\subscription_fee.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\lanro\C#\the_basic\subscription_fee\obj\Debug\net8.0\subscription_fee.AssemblyInfoInputs.cache
+E:\Users\lanro\C#\the_basic\subscription_fee\obj\Debug\net8.0\subscription_fee.AssemblyInfo.cs
+E:\Users\lanro\C#\the_basic\subscription_fee\obj\Debug\net8.0\subscription_fee.csproj.CoreCompileInputs.cache
+E:\Users\lanro\C#\the_basic\subscription_fee\obj\Debug\net8.0\subscription_fee.dll
+E:\Users\lanro\C#\the_basic\subscription_fee\obj\Debug\net8.0\refint\subscription_fee.dll
+E:\Users\lanro\C#\the_basic\subscription_fee\obj\Debug\net8.0\subscription_fee.pdb
+E:\Users\lanro\C#\the_basic\subscription_fee\obj\Debug\net8.0\subscription_fee.genruntimeconfig.cache
+E:\Users\lanro\C#\the_basic\subscription_fee\obj\Debug\net8.0\ref\subscription_fee.dll

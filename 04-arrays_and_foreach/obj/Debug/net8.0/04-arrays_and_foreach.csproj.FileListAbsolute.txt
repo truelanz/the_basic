@@ -1,0 +1,14 @@
+E:\Users\lanro\C#\the_basic\04-arrays_and_foreach\obj\Debug\net8.0\04-arrays_and_foreach.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\lanro\C#\the_basic\04-arrays_and_foreach\obj\Debug\net8.0\04-arrays_and_foreach.AssemblyInfoInputs.cache
+E:\Users\lanro\C#\the_basic\04-arrays_and_foreach\obj\Debug\net8.0\04-arrays_and_foreach.AssemblyInfo.cs
+E:\Users\lanro\C#\the_basic\04-arrays_and_foreach\obj\Debug\net8.0\04-arrays_and_foreach.csproj.CoreCompileInputs.cache
+E:\Users\lanro\C#\the_basic\04-arrays_and_foreach\bin\Debug\net8.0\04-arrays_and_foreach.exe
+E:\Users\lanro\C#\the_basic\04-arrays_and_foreach\bin\Debug\net8.0\04-arrays_and_foreach.deps.json
+E:\Users\lanro\C#\the_basic\04-arrays_and_foreach\bin\Debug\net8.0\04-arrays_and_foreach.runtimeconfig.json
+E:\Users\lanro\C#\the_basic\04-arrays_and_foreach\bin\Debug\net8.0\04-arrays_and_foreach.dll
+E:\Users\lanro\C#\the_basic\04-arrays_and_foreach\bin\Debug\net8.0\04-arrays_and_foreach.pdb
+E:\Users\lanro\C#\the_basic\04-arrays_and_foreach\obj\Debug\net8.0\04-arrays_and_foreach.dll
+E:\Users\lanro\C#\the_basic\04-arrays_and_foreach\obj\Debug\net8.0\refint\04-arrays_and_foreach.dll
+E:\Users\lanro\C#\the_basic\04-arrays_and_foreach\obj\Debug\net8.0\04-arrays_and_foreach.pdb
+E:\Users\lanro\C#\the_basic\04-arrays_and_foreach\obj\Debug\net8.0\04-arrays_and_foreach.genruntimeconfig.cache
+E:\Users\lanro\C#\the_basic\04-arrays_and_foreach\obj\Debug\net8.0\ref\04-arrays_and_foreach.dll
