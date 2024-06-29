@@ -1,0 +1,15 @@
+E:\Users\lanro\C#\the_basic\06-foreach_matriz_exercise\bin\Debug\net8.0\06-foreach_matriz_exercise.exe
+E:\Users\lanro\C#\the_basic\06-foreach_matriz_exercise\bin\Debug\net8.0\06-foreach_matriz_exercise.deps.json
+E:\Users\lanro\C#\the_basic\06-foreach_matriz_exercise\bin\Debug\net8.0\06-foreach_matriz_exercise.runtimeconfig.json
+E:\Users\lanro\C#\the_basic\06-foreach_matriz_exercise\bin\Debug\net8.0\06-foreach_matriz_exercise.dll
+E:\Users\lanro\C#\the_basic\06-foreach_matriz_exercise\bin\Debug\net8.0\06-foreach_matriz_exercise.pdb
+E:\Users\lanro\C#\the_basic\06-foreach_matriz_exercise\obj\Debug\net8.0\06-foreach_matriz_exercise.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\lanro\C#\the_basic\06-foreach_matriz_exercise\obj\Debug\net8.0\06-foreach_matriz_exercise.AssemblyInfoInputs.cache
+E:\Users\lanro\C#\the_basic\06-foreach_matriz_exercise\obj\Debug\net8.0\06-foreach_matriz_exercise.AssemblyInfo.cs
+E:\Users\lanro\C#\the_basic\06-foreach_matriz_exercise\obj\Debug\net8.0\06-foreach_matriz_exercise.csproj.CoreCompileInputs.cache
+E:\Users\lanro\C#\the_basic\06-foreach_matriz_exercise\obj\Debug\net8.0\06-foreach_matriz_exercise.sourcelink.json
+E:\Users\lanro\C#\the_basic\06-foreach_matriz_exercise\obj\Debug\net8.0\06-foreach_matriz_exercise.dll
+E:\Users\lanro\C#\the_basic\06-foreach_matriz_exercise\obj\Debug\net8.0\refint\06-foreach_matriz_exercise.dll
+E:\Users\lanro\C#\the_basic\06-foreach_matriz_exercise\obj\Debug\net8.0\06-foreach_matriz_exercise.pdb
+E:\Users\lanro\C#\the_basic\06-foreach_matriz_exercise\obj\Debug\net8.0\06-foreach_matriz_exercise.genruntimeconfig.cache
+E:\Users\lanro\C#\the_basic\06-foreach_matriz_exercise\obj\Debug\net8.0\ref\06-foreach_matriz_exercise.dll

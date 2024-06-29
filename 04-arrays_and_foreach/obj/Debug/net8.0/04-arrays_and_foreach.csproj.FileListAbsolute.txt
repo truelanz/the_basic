@@ -12,3 +12,4 @@ E:\Users\lanro\C#\the_basic\04-arrays_and_foreach\obj\Debug\net8.0\refint\04-arr
 E:\Users\lanro\C#\the_basic\04-arrays_and_foreach\obj\Debug\net8.0\04-arrays_and_foreach.pdb
 E:\Users\lanro\C#\the_basic\04-arrays_and_foreach\obj\Debug\net8.0\04-arrays_and_foreach.genruntimeconfig.cache
 E:\Users\lanro\C#\the_basic\04-arrays_and_foreach\obj\Debug\net8.0\ref\04-arrays_and_foreach.dll
+E:\Users\lanro\C#\the_basic\04-arrays_and_foreach\obj\Debug\net8.0\04-arrays_and_foreach.sourcelink.json

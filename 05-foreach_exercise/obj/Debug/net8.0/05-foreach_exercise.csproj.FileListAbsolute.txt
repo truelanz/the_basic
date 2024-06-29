@@ -1,0 +1,15 @@
+E:\Users\lanro\C#\the_basic\05-foreach_exercise\bin\Debug\net8.0\05-foreach_exercise.exe
+E:\Users\lanro\C#\the_basic\05-foreach_exercise\bin\Debug\net8.0\05-foreach_exercise.deps.json
+E:\Users\lanro\C#\the_basic\05-foreach_exercise\bin\Debug\net8.0\05-foreach_exercise.runtimeconfig.json
+E:\Users\lanro\C#\the_basic\05-foreach_exercise\bin\Debug\net8.0\05-foreach_exercise.dll
+E:\Users\lanro\C#\the_basic\05-foreach_exercise\bin\Debug\net8.0\05-foreach_exercise.pdb
+E:\Users\lanro\C#\the_basic\05-foreach_exercise\obj\Debug\net8.0\05-foreach_exercise.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\lanro\C#\the_basic\05-foreach_exercise\obj\Debug\net8.0\05-foreach_exercise.AssemblyInfoInputs.cache
+E:\Users\lanro\C#\the_basic\05-foreach_exercise\obj\Debug\net8.0\05-foreach_exercise.AssemblyInfo.cs
+E:\Users\lanro\C#\the_basic\05-foreach_exercise\obj\Debug\net8.0\05-foreach_exercise.csproj.CoreCompileInputs.cache
+E:\Users\lanro\C#\the_basic\05-foreach_exercise\obj\Debug\net8.0\05-foreach_exercise.sourcelink.json
+E:\Users\lanro\C#\the_basic\05-foreach_exercise\obj\Debug\net8.0\05-foreach_exercise.dll
+E:\Users\lanro\C#\the_basic\05-foreach_exercise\obj\Debug\net8.0\refint\05-foreach_exercise.dll
+E:\Users\lanro\C#\the_basic\05-foreach_exercise\obj\Debug\net8.0\05-foreach_exercise.pdb
+E:\Users\lanro\C#\the_basic\05-foreach_exercise\obj\Debug\net8.0\05-foreach_exercise.genruntimeconfig.cache
+E:\Users\lanro\C#\the_basic\05-foreach_exercise\obj\Debug\net8.0\ref\05-foreach_exercise.dll
