@@ -1,0 +1,15 @@
+E:\Users\lanro\C#\the_basic\07-boolean_expressions\bin\Debug\net8.0\07-boolean_expressions.exe
+E:\Users\lanro\C#\the_basic\07-boolean_expressions\bin\Debug\net8.0\07-boolean_expressions.deps.json
+E:\Users\lanro\C#\the_basic\07-boolean_expressions\bin\Debug\net8.0\07-boolean_expressions.runtimeconfig.json
+E:\Users\lanro\C#\the_basic\07-boolean_expressions\bin\Debug\net8.0\07-boolean_expressions.dll
+E:\Users\lanro\C#\the_basic\07-boolean_expressions\bin\Debug\net8.0\07-boolean_expressions.pdb
+E:\Users\lanro\C#\the_basic\07-boolean_expressions\obj\Debug\net8.0\07-boolean_expressions.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\lanro\C#\the_basic\07-boolean_expressions\obj\Debug\net8.0\07-boolean_expressions.AssemblyInfoInputs.cache
+E:\Users\lanro\C#\the_basic\07-boolean_expressions\obj\Debug\net8.0\07-boolean_expressions.AssemblyInfo.cs
+E:\Users\lanro\C#\the_basic\07-boolean_expressions\obj\Debug\net8.0\07-boolean_expressions.csproj.CoreCompileInputs.cache
+E:\Users\lanro\C#\the_basic\07-boolean_expressions\obj\Debug\net8.0\07-boolean_expressions.sourcelink.json
+E:\Users\lanro\C#\the_basic\07-boolean_expressions\obj\Debug\net8.0\07-boolean_expressions.dll
+E:\Users\lanro\C#\the_basic\07-boolean_expressions\obj\Debug\net8.0\refint\07-boolean_expressions.dll
+E:\Users\lanro\C#\the_basic\07-boolean_expressions\obj\Debug\net8.0\07-boolean_expressions.pdb
+E:\Users\lanro\C#\the_basic\07-boolean_expressions\obj\Debug\net8.0\07-boolean_expressions.genruntimeconfig.cache
+E:\Users\lanro\C#\the_basic\07-boolean_expressions\obj\Debug\net8.0\ref\07-boolean_expressions.dll

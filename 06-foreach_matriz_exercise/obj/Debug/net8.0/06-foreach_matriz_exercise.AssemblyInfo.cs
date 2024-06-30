@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("06-foreach_matriz_exercise")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f0312082d883428ebbee0b0f8f6200fa98b773b7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d139f3b82b771c298652dc055b981261ad70325b")]
 [assembly: System.Reflection.AssemblyProductAttribute("06-foreach_matriz_exercise")]
 [assembly: System.Reflection.AssemblyTitleAttribute("06-foreach_matriz_exercise")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
