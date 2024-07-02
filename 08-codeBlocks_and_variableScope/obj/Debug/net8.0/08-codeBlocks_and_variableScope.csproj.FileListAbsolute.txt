@@ -1,0 +1,15 @@
+E:\Users\lanro\C#\the_basic\08-codeBlocks_and_variableScope\bin\Debug\net8.0\08-codeBlocks_and_variableScope.exe
+E:\Users\lanro\C#\the_basic\08-codeBlocks_and_variableScope\bin\Debug\net8.0\08-codeBlocks_and_variableScope.deps.json
+E:\Users\lanro\C#\the_basic\08-codeBlocks_and_variableScope\bin\Debug\net8.0\08-codeBlocks_and_variableScope.runtimeconfig.json
+E:\Users\lanro\C#\the_basic\08-codeBlocks_and_variableScope\bin\Debug\net8.0\08-codeBlocks_and_variableScope.dll
+E:\Users\lanro\C#\the_basic\08-codeBlocks_and_variableScope\bin\Debug\net8.0\08-codeBlocks_and_variableScope.pdb
+E:\Users\lanro\C#\the_basic\08-codeBlocks_and_variableScope\obj\Debug\net8.0\08-codeBlocks_and_variableScope.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\lanro\C#\the_basic\08-codeBlocks_and_variableScope\obj\Debug\net8.0\08-codeBlocks_and_variableScope.AssemblyInfoInputs.cache
+E:\Users\lanro\C#\the_basic\08-codeBlocks_and_variableScope\obj\Debug\net8.0\08-codeBlocks_and_variableScope.AssemblyInfo.cs
+E:\Users\lanro\C#\the_basic\08-codeBlocks_and_variableScope\obj\Debug\net8.0\08-codeBlocks_and_variableScope.csproj.CoreCompileInputs.cache
+E:\Users\lanro\C#\the_basic\08-codeBlocks_and_variableScope\obj\Debug\net8.0\08-codeBlocks_and_variableScope.sourcelink.json
+E:\Users\lanro\C#\the_basic\08-codeBlocks_and_variableScope\obj\Debug\net8.0\08-codeBlocks_and_variableScope.dll
+E:\Users\lanro\C#\the_basic\08-codeBlocks_and_variableScope\obj\Debug\net8.0\refint\08-codeBlocks_and_variableScope.dll
+E:\Users\lanro\C#\the_basic\08-codeBlocks_and_variableScope\obj\Debug\net8.0\08-codeBlocks_and_variableScope.pdb
+E:\Users\lanro\C#\the_basic\08-codeBlocks_and_variableScope\obj\Debug\net8.0\08-codeBlocks_and_variableScope.genruntimeconfig.cache
+E:\Users\lanro\C#\the_basic\08-codeBlocks_and_variableScope\obj\Debug\net8.0\ref\08-codeBlocks_and_variableScope.dll
