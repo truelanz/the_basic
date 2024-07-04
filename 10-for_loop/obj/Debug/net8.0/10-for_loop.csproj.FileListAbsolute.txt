@@ -1,0 +1,15 @@
+E:\Users\lanro\C#\the_basic\10-for_loop\bin\Debug\net8.0\10-for_loop.exe
+E:\Users\lanro\C#\the_basic\10-for_loop\bin\Debug\net8.0\10-for_loop.deps.json
+E:\Users\lanro\C#\the_basic\10-for_loop\bin\Debug\net8.0\10-for_loop.runtimeconfig.json
+E:\Users\lanro\C#\the_basic\10-for_loop\bin\Debug\net8.0\10-for_loop.dll
+E:\Users\lanro\C#\the_basic\10-for_loop\bin\Debug\net8.0\10-for_loop.pdb
+E:\Users\lanro\C#\the_basic\10-for_loop\obj\Debug\net8.0\10-for_loop.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\lanro\C#\the_basic\10-for_loop\obj\Debug\net8.0\10-for_loop.AssemblyInfoInputs.cache
+E:\Users\lanro\C#\the_basic\10-for_loop\obj\Debug\net8.0\10-for_loop.AssemblyInfo.cs
+E:\Users\lanro\C#\the_basic\10-for_loop\obj\Debug\net8.0\10-for_loop.csproj.CoreCompileInputs.cache
+E:\Users\lanro\C#\the_basic\10-for_loop\obj\Debug\net8.0\10-for_loop.sourcelink.json
+E:\Users\lanro\C#\the_basic\10-for_loop\obj\Debug\net8.0\10-for_loop.dll
+E:\Users\lanro\C#\the_basic\10-for_loop\obj\Debug\net8.0\refint\10-for_loop.dll
+E:\Users\lanro\C#\the_basic\10-for_loop\obj\Debug\net8.0\10-for_loop.pdb
+E:\Users\lanro\C#\the_basic\10-for_loop\obj\Debug\net8.0\10-for_loop.genruntimeconfig.cache
+E:\Users\lanro\C#\the_basic\10-for_loop\obj\Debug\net8.0\ref\10-for_loop.dll

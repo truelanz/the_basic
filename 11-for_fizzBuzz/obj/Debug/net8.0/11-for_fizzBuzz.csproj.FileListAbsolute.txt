@@ -1,0 +1,15 @@
+E:\Users\lanro\C#\the_basic\11-for_fizzBuzz\bin\Debug\net8.0\11-for_fizzBuzz.exe
+E:\Users\lanro\C#\the_basic\11-for_fizzBuzz\bin\Debug\net8.0\11-for_fizzBuzz.deps.json
+E:\Users\lanro\C#\the_basic\11-for_fizzBuzz\bin\Debug\net8.0\11-for_fizzBuzz.runtimeconfig.json
+E:\Users\lanro\C#\the_basic\11-for_fizzBuzz\bin\Debug\net8.0\11-for_fizzBuzz.dll
+E:\Users\lanro\C#\the_basic\11-for_fizzBuzz\bin\Debug\net8.0\11-for_fizzBuzz.pdb
+E:\Users\lanro\C#\the_basic\11-for_fizzBuzz\obj\Debug\net8.0\11-for_fizzBuzz.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\lanro\C#\the_basic\11-for_fizzBuzz\obj\Debug\net8.0\11-for_fizzBuzz.AssemblyInfoInputs.cache
+E:\Users\lanro\C#\the_basic\11-for_fizzBuzz\obj\Debug\net8.0\11-for_fizzBuzz.AssemblyInfo.cs
+E:\Users\lanro\C#\the_basic\11-for_fizzBuzz\obj\Debug\net8.0\11-for_fizzBuzz.csproj.CoreCompileInputs.cache
+E:\Users\lanro\C#\the_basic\11-for_fizzBuzz\obj\Debug\net8.0\11-for_fizzBuzz.sourcelink.json
+E:\Users\lanro\C#\the_basic\11-for_fizzBuzz\obj\Debug\net8.0\11-for_fizzBuzz.dll
+E:\Users\lanro\C#\the_basic\11-for_fizzBuzz\obj\Debug\net8.0\refint\11-for_fizzBuzz.dll
+E:\Users\lanro\C#\the_basic\11-for_fizzBuzz\obj\Debug\net8.0\11-for_fizzBuzz.pdb
+E:\Users\lanro\C#\the_basic\11-for_fizzBuzz\obj\Debug\net8.0\11-for_fizzBuzz.genruntimeconfig.cache
+E:\Users\lanro\C#\the_basic\11-for_fizzBuzz\obj\Debug\net8.0\ref\11-for_fizzBuzz.dll

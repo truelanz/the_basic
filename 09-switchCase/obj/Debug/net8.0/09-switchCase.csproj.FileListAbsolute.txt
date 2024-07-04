@@ -1,0 +1,15 @@
+E:\Users\lanro\C#\the_basic\09-switchCase\bin\Debug\net8.0\09-switchCase.exe
+E:\Users\lanro\C#\the_basic\09-switchCase\bin\Debug\net8.0\09-switchCase.deps.json
+E:\Users\lanro\C#\the_basic\09-switchCase\bin\Debug\net8.0\09-switchCase.runtimeconfig.json
+E:\Users\lanro\C#\the_basic\09-switchCase\bin\Debug\net8.0\09-switchCase.dll
+E:\Users\lanro\C#\the_basic\09-switchCase\bin\Debug\net8.0\09-switchCase.pdb
+E:\Users\lanro\C#\the_basic\09-switchCase\obj\Debug\net8.0\09-switchCase.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\lanro\C#\the_basic\09-switchCase\obj\Debug\net8.0\09-switchCase.AssemblyInfoInputs.cache
+E:\Users\lanro\C#\the_basic\09-switchCase\obj\Debug\net8.0\09-switchCase.AssemblyInfo.cs
+E:\Users\lanro\C#\the_basic\09-switchCase\obj\Debug\net8.0\09-switchCase.csproj.CoreCompileInputs.cache
+E:\Users\lanro\C#\the_basic\09-switchCase\obj\Debug\net8.0\09-switchCase.sourcelink.json
+E:\Users\lanro\C#\the_basic\09-switchCase\obj\Debug\net8.0\09-switchCase.dll
+E:\Users\lanro\C#\the_basic\09-switchCase\obj\Debug\net8.0\refint\09-switchCase.dll
+E:\Users\lanro\C#\the_basic\09-switchCase\obj\Debug\net8.0\09-switchCase.pdb
+E:\Users\lanro\C#\the_basic\09-switchCase\obj\Debug\net8.0\09-switchCase.genruntimeconfig.cache
+E:\Users\lanro\C#\the_basic\09-switchCase\obj\Debug\net8.0\ref\09-switchCase.dll
